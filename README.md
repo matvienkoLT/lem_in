@@ -10,7 +10,7 @@ At the beginning from standart output the program recieves information about num
 
 ## ## Overview
 
-![enter image description here](https://github.com/matvienkoLT/lem_in/blob/master/gif.gif?raw=true)
+![enter image description here](https://github.com/matvienkoLT/lem_in/blob/master/gif.gif?raw=true=100x20)
 
 ## ## Installation and usage
 
